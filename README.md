@@ -1,4 +1,4 @@
-# README.md for Tooth Decay Simulation and Analysis
+# Tooth Decay Simulation and Analysis
 
 ## Introduction
 
